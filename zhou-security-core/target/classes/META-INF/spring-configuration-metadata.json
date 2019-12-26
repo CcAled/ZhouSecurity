@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zhou.security.core.properties.SecurityProperties",
+      "name": "zhou.security",
+      "type": "com.zhou.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zhou.security.core.properties.SecurityProperties",
+      "name": "zhou.security.browser",
+      "type": "com.zhou.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.zhou.security.core.properties.SecurityProperties",
+      "name": "zhou.security.code",
+      "type": "com.zhou.security.core.properties.ValidateCodeProperties"
+    },
+    {
+      "sourceType": "com.zhou.security.core.properties.SecurityProperties",
+      "name": "zhou.security.o-auth2",
+      "type": "com.zhou.security.core.properties.OAuth2Properties"
+    },
+    {
+      "sourceType": "com.zhou.security.core.properties.SecurityProperties",
+      "name": "zhou.security.social",
+      "type": "com.zhou.security.core.properties.SocialProperties"
+    }
+  ]
+}

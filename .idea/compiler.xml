@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zhousecuritybrowser" />
+        <module name="zhou-security-core" />
+        <module name="zhousecurityapp" />
+        <module name="zhou-security-app" />
+        <module name="zhousecuritycore" />
+        <module name="zhou-security-demo" />
+        <module name="zhou-security-browser" />
+        <module name="zhousecuritydemo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
